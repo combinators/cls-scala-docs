@@ -1,0 +1,7 @@
+(CL)S - Combinatory Logic Synthesizer
+=====================================
+
+(CL)S is a framework to automatically synthesize software from
+combinators encapsulating its typed components. This is the
+official documentation for the (CL)S Framework.
+

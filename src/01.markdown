@@ -1,0 +1,7 @@
+Setup
+=====
+
+You first need to obtain the Scala Build Tool (sbt).
+Please follow the instructions at the [offical sbt website](http://www.scala-sbt.org/).
+
+
