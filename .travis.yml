@@ -1,0 +1,12 @@
+language: scala
+jdk:
+  - oraclejdk8
+  - openjdk8
+
+script: sbt runMain pamflet.Pamflet src documentation
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  on:
+    branch: gh-pages
