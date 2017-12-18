@@ -8,6 +8,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   target_branch: master
+  github_token: $GITHUB_TOKEN
   on:
-    branch: doc_source
+    branch: source
     
