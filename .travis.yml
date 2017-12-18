@@ -3,6 +3,7 @@ jdk:
   - openjdk8
 
 script: 
+  - mkdir documentation
   - sbt "runMain pamflet.Pamflet src documentation"
   - cp .gitignore.except_documentation .gitignore
 
