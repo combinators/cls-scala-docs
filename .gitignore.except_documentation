@@ -1,0 +1,6 @@
+# Ignore everything but the documentation (intended for the masterbranch)
+*
+!index.html
+!documentation/
+!documentation/*
+!documentation/**/*
