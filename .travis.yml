@@ -2,7 +2,7 @@ language: scala
 jdk:
   - openjdk8
 
-script: sbt runMain pamflet.Pamflet src documentation
+script: sbt "runMain pamflet.Pamflet src documentation"
 
 deploy:
   provider: pages
