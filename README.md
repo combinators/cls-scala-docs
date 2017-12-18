@@ -14,11 +14,13 @@ sbt runMain pamflet.Pamflet src
 
 Visit the [Pamflet website](http://www.foundweekends.org/pamflet/) for editing documentation.
 
-When done, open a pull request including your markdown files.
+When done, open a pull request against branch `source` including your markdown files.
 
 **Do not try to push the generated documentation!**
 
 Travis will automatically build and update the website, once your request has been accepted.
+
+The documentation source is kept in branch `source` and the compiled output in `master`.
 
 ## Help and Contributions
 
