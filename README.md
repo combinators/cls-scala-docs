@@ -1,4 +1,4 @@
-# combinators.github.io ![build status](https://travis-ci.org/combinators/combinators.github.io.svg?branch=master)
+# combinators.github.io ![build status](https://travis-ci.org/combinators/combinators.github.io.svg?branch=source)
 ## Documentation of the Combinatory Logic Synthesizer (CL)S Framework
 
 This repository houses the official documentation for the Combinatory Logic Synthesizer (CL)S framework.
